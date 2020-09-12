@@ -49,7 +49,7 @@
 
 ---
 
-<img align="left" alt="ro-hit81's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ro-hit81&show_icons=true&hide_border=true />
+<img align="left" alt="ro-hit81's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ro-hit81&show_icons=true&hide_border=true" />
 
 [portfolio]: https://rohit81.com.np/
 [covid19nepal]: http://covid19.rohit.com.np

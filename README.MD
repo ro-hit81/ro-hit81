@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Deep Learning Model for Land use land cover
-- ⚡ Fun fact: I love to play games & imagine myself being successful.
+- ⚡ Fun fact: I love to play games & imagine myself being successful. 🤣
 
 
 ### Connect with me:
@@ -41,7 +41,7 @@
 
 ### Projects:
 
-[<img align="left" alt="COVID-19 Nepal App" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][currentsite]
+[<img align="left" alt="COVID-19 Nepal App" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][covid19nepal]
 [<img align="left" alt="Portfolio" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 
 <br />

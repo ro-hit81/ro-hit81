@@ -1,6 +1,6 @@
 ### Hi there, I'm Rohit - aka [ro-hit81][portfolio] 👋
 
-## I'm an Engineer, Developer, Data driving freak & Learner(quick one)!
+## I'm an Engineer, Developer, Data driving freak & Learner(A Quick One)!
 
 - 🔭 I’m currently working on a [COVID-19 Nepal App][covid19nepal]!
 - 🌱 I’m currently learning everything 🤣

@@ -113,6 +113,23 @@ I'm a **Copernicus Master in Digital Earth** student specializing in **Geospatia
 </td>
 <td width="50%">
 
+#### 🌱 **NDVI-Hotspot: Vegetation Analysis Package**
+> **Professional Python package for satellite-based vegetation monitoring**
+
+[![Repo](https://img.shields.io/badge/Repository-NDVI--Hotspot-green?style=flat-square&logo=github)](https://github.com/ro-hit81/NDVI-Hotspot)
+
+- 🛰️ **Satellite Data Processing**: Automated Landsat data retrieval via Microsoft Planetary Computer
+- 📈 **NDVI Calculation**: Temporal vegetation index analysis with statistical insights
+- 🔥 **Hotspot Detection**: Getis-Ord Gi* spatial statistics for vegetation clustering
+- 📊 **Advanced Visualization**: Publication-ready plots and interactive time series
+
+**Tech Stack**: `Python` `xarray` `stackstac` `matplotlib` `pystac-client` `scipy`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 #### 🦠 **COVID-19 Nepal Real-time Tracker**
 > **Interactive pandemic monitoring with advanced data visualization**
 

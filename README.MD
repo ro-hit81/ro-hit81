@@ -1,6 +1,28 @@
 # 🛰️ Rohit Khati | Remote Sensing & Geospatial Data Scientist 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=1000&lines=Copernicus+Master+in+Digital+Earth+Student;Geospatial+Data+Science+%26+Earth+Observation+Specialist;Satellite+Image+Processing+%26+Remote+Sensing+Expert;GIS+Developer+%26+Environmental+Data+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&center### 📅 **GitHub Activity & Contributions**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ro-hit81&theme=github-compact&hide_border=true&area=true&custom_title=Remote%20Sensing%20%26%20Geospatial%20Development%20Activity)
+
+### 🔥 **GitHub Streak Stats**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ro-hit81&theme=algolia&hide_border=true)
+
+### 📊 **Comprehensive GitHub Metrics**
+![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ro-hit81&theme=algolia)
+
+<table>
+<tr>
+<td width="50%">
+
+![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ro-hit81&theme=algolia)
+
+</td>
+<td width="50%">
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ro-hit81&theme=algolia&utcOffset=8)
+
+</td>
+</tr>
+</table>&vCenter=true&width=1000&lines=Copernicus+Master+in+Digital+Earth+Student;Geospatial+Data+Science+%26+Earth+Observation+Specialist;Satellite+Image+Processing+%26+Remote+Sensing+Expert;GIS+Developer+%26+Environmental+Data+Analyst)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -170,23 +192,23 @@ I'm a **Copernicus Master in Digital Earth** student specializing in **Geospatia
 <td width="50%">
 
 ### 📊 **Development Statistics**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ro-hit81&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ro-hit81&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)
 
 </td>
 <td width="50%">
 
 ### 🔥 **Language Proficiency**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-hit81&layout=compact&theme=algolia&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-hit81&layout=compact&theme=algolia&hide_border=true&langs_count=8&cache_seconds=86400)
 
 </td>
 </tr>
 </table>
 
-### 🐍 **Contribution Snake - Earth Observation Data Flow**
-![Snake Animation](https://raw.githubusercontent.com/ro-hit81/ro-hit81/output/github-contribution-grid-snake-dark.svg)
+### � **GitHub Activity & Contributions**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ro-hit81&theme=github-compact&hide_border=true&area=true&custom_title=Remote%20Sensing%20%26%20Geospatial%20Development%20Activity)
 
-### 📅 **Coding Activity Heatmap**
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ro-hit81&theme=github-compact&hide_border=true&area=true&custom_title=Remote%20Sensing%20%26%20Geospatial%20Development%20Activity)
+### 🔥 **GitHub Streak Stats**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ro-hit81&theme=algolia&hide_border=true)
 
 </div>
 

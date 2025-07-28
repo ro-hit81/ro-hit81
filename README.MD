@@ -161,10 +161,11 @@ I'm a **Copernicus Master in Digital Earth** student specializing in **Geospatia
 
 </div>
 
-## 📈 **GitHub Analytics & Activity**
+## 📈 **GitHub Analytics & Comprehensive Statistics**
 
 <div align="center">
-  
+
+### 🎯 **Primary GitHub Statistics**
 <table>
 <tr>
 <td width="50%">
@@ -182,29 +183,54 @@ I'm a **Copernicus Master in Digital Earth** student specializing in **Geospatia
 </tr>
 </table>
 
-### 📅 **GitHub Activity & Contributions**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ro-hit81&theme=github-compact&hide_border=true&area=true&custom_title=Remote%20Sensing%20%26%20Geospatial%20Development%20Activity)
+### 📊 **Comprehensive GitHub Profile Summary**
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ro-hit81&theme=algolia)
 
-### 🔥 **GitHub Streak Stats**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ro-hit81&theme=algolia&hide_border=true)
-
-### 📊 **Comprehensive GitHub Metrics**
-![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ro-hit81&theme=algolia)
-
+### 🔥 **GitHub Streak & Activity Analysis**
 <table>
 <tr>
 <td width="50%">
 
-![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ro-hit81&theme=algolia)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ro-hit81&theme=algolia&hide_border=true)
 
 </td>
 <td width="50%">
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-hit81&layout=donut&theme=algolia&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+### 📈 **Advanced GitHub Metrics Dashboard**
+<table>
+<tr>
+<td width="33%">
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ro-hit81&theme=algolia)
+
+</td>
+<td width="33%">
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ro-hit81&theme=algolia)
+
+</td>
+<td width="33%">
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ro-hit81&theme=algolia&utcOffset=8)
 
 </td>
 </tr>
 </table>
+
+### 📅 **GitHub Activity Graph**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ro-hit81&theme=github-compact&hide_border=true&area=true&custom_title=🛰️%20Remote%20Sensing%20%26%20Geospatial%20Development%20Activity)
+
+### 🏆 **GitHub Achievements & Trophies**
+![Trophies](https://github-profile-trophy.vercel.app/?username=ro-hit81&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=4)
+
+### 📊 **Repository Languages Distribution**
+![Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ro-hit81&theme=algolia)
 
 </div>
 

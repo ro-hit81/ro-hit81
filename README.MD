@@ -92,10 +92,8 @@ I'm a **Copernicus Master in Digital Earth** student specializing in **Geospatia
 
 **✨ Key Features:**
 - 🏆 **Competition Winner**: Top-performing solution in ML4EARTH challenge
-- 🤖 **Foundation Models**: Advanced transformer architectures for EO data
+- 🤖 **Foundation Models**: Advanced architectures for EO data
 - �️ **Multi-spectral Analysis**: Comprehensive satellite data processing
-- � **State-of-the-art Performance**: Benchmark results on EO datasets
-- � **Research-grade Implementation**: Publication-ready methodology
 
 **🛠️ Tech Stack**: `Python` `PyTorch` `Transformers` `Satellite Data` `Deep Learning`
 

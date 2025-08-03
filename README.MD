@@ -240,10 +240,8 @@ I'm a **Copernicus Master in Digital Earth** student specializing in **Geospatia
 </tr>
 </table>
 
-### 📅 **GitHub Activity Graph**
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ro-hit81&theme=github-compact&hide_border=true&area=true&custom_title=🛰️%20Remote%20Sensing%20%26%20Geospatial%20Development%20Activity)
 
-### 🐍 **GitHub Contribution Snake Animation**
+###  **GitHub Contribution**
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ro-hit81/ro-hit81/output/github-contribution-grid-snake-dark.svg">

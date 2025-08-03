@@ -94,89 +94,68 @@ I'm a **Copernicus Master in Digital Earth** student specializing in **Geospatia
   
 ### 🏆 **Flagship Earth Observation Projects**
 
-<table>
-<tr>
-<td width="50%">
-
-#### 🌍 **E-CAD: Electronic Cadastral Management System**
-> **GeoDjango-based GIS application for cadastral data management**
-
-[![Repo](https://img.shields.io/badge/Repository-E--CAD-blue?style=flat-square&logo=github)](https://github.com/ro-hit81/E-CAD)
-
-- 🗺️ **Spatial Data Processing**: PostGIS integration for geometric operations
-- 📊 **Multi-layer Visualization**: Building, parcel, and infrastructure mapping
-- 🔧 **Shapefile Integration**: Automated GIS data loading utilities
-- 💼 **Professional GIS**: Django admin interface with spatial capabilities
-
-**Tech Stack**: `Django` `GeoDjango` `PostGIS` `Leaflet` `Python`
-
-</td>
-<td width="50%">
-
-#### 🌱 **NDVI-Hotspot: Vegetation Analysis Package**
-> **Professional Python package for satellite-based vegetation monitoring**
-
-[![Repo](https://img.shields.io/badge/Repository-NDVI--Hotspot-green?style=flat-square&logo=github)](https://github.com/ro-hit81/NDVI-Hotspot)
-
-- 🛰️ **Satellite Data Processing**: Automated Landsat data retrieval via Microsoft Planetary Computer
-- 📈 **NDVI Calculation**: Temporal vegetation index analysis with statistical insights
-- 🔥 **Hotspot Detection**: Getis-Ord Gi* spatial statistics for vegetation clustering
-- 📊 **Advanced Visualization**: Publication-ready plots and interactive time series
-
-**Tech Stack**: `Python` `xarray` `stackstac` `matplotlib` `pystac-client` `scipy`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🦠 **COVID-19 Nepal Real-time Tracker**
-> **Interactive pandemic monitoring with advanced data visualization**
-
-[![Repo](https://img.shields.io/badge/Repository-COVID--19--Vuetify-green?style=flat-square&logo=github)](https://github.com/ro-hit81/COVID-19-Vuetify)
-
-- 📈 **Real-time Analytics**: Live data integration and processing
-- 🗺️ **Choropleth Mapping**: District-wise case distribution visualization
-- 📊 **ECharts Integration**: Professional data visualization suite
-- 🌐 **Multi-scale Analysis**: Province, district, and global perspectives
-
-**Tech Stack**: `Vue.js` `Vuetify` `ECharts` `Leaflet` `Express.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🛰️ **AIT Geoinformatics Research Internship**
-> **Advanced Earth observation and environmental monitoring**
-
-[![Repo](https://img.shields.io/badge/Repository-INTERNSHIP-orange?style=flat-square&logo=github)](https://github.com/ro-hit81/INTERNSHIP)
-
-- 🌾 **LULC Classification**: Multi-temporal land use analysis for SEA cities
-- 🌊 **Flood Monitoring**: Sentinel-2 based flood extent mapping
-- 📡 **Google Earth Engine**: Cloud-based geospatial analysis pipeline
-- 🔬 **Deep Learning**: Neural networks for satellite image classification
-
-**Coverage**: `Chiang Rai` `Ubon Ratchathani` `Vientiane`
-
-</td>
-<td width="50%">
-
-#### 🌐 **Global Surface Water Analysis**
-> **Long-term water dynamics assessment using satellite data**
-
-- 📊 **35-year Analysis**: Historical water detection and change mapping
-- 🔍 **Transition Detection**: Seasonal and permanent water classification
-- 📈 **Statistical Modeling**: Time series analysis of water occurrence
-- 🎯 **Risk Assessment**: Flood pattern analysis and vulnerability mapping
-
-**Data Sources**: `JRC Global Surface Water` `Sentinel-2` `Landsat`
-
-</td>
-</tr>
-</table>
-
 </div>
+
+<details>
+<summary>� <b>ML4EARTH: Foundation Models for EO</b> - Competition-winning Earth observation foundation model implementation</summary>
+<br>
+
+[![Repo](https://img.shields.io/badge/Repository-ML4EARTH-gold?style=flat-square&logo=github)](https://github.com/ro-hit81/ML4EARTH)
+
+**🎯 Project Overview:**
+> Award-winning implementation of foundation models for Earth observation data, demonstrating cutting-edge machine learning techniques for satellite image analysis.
+
+**✨ Key Features:**
+- 🏆 **Competition Winner**: Top-performing solution in ML4EARTH challenge
+- 🤖 **Foundation Models**: Advanced transformer architectures for EO data
+- �️ **Multi-spectral Analysis**: Comprehensive satellite data processing
+- � **State-of-the-art Performance**: Benchmark results on EO datasets
+- � **Research-grade Implementation**: Publication-ready methodology
+
+**🛠️ Tech Stack**: `Python` `PyTorch` `Transformers` `Satellite Data` `Deep Learning`
+
+</details>
+
+<details>
+<summary>� <b>U-Net Landsat 10-Class Classification</b> - Deep learning for land cover classification using Landsat imagery</summary>
+<br>
+
+[![Repo](https://img.shields.io/badge/Repository-unet__landsat__10__class-blue?style=flat-square&logo=github)](https://github.com/ro-hit81/unet_landsat_10_class)
+
+**🎯 Project Overview:**
+> Advanced U-Net implementation for pixel-level land cover classification using Landsat satellite imagery, achieving high-accuracy multi-class segmentation.
+
+**✨ Key Features:**
+- 🧠 **U-Net Architecture**: Deep convolutional neural network for semantic segmentation
+- �️ **Landsat Integration**: Optimized for Landsat multispectral bands
+- 🏞️ **10-Class Classification**: Comprehensive land cover categories
+- 📈 **High Accuracy**: Optimized model performance and validation
+- � **End-to-end Pipeline**: Data preprocessing to model deployment
+
+**🛠️ Tech Stack**: `Python` `TensorFlow/Keras` `Landsat` `U-Net` `Computer Vision`
+
+</details>
+
+<details>
+<summary>🌍 <b>Land Cover Classification using GEE</b> - Google Earth Engine-based large-scale land cover mapping</summary>
+<br>
+
+[![Repo](https://img.shields.io/badge/Repository-Landcover__GEE-green?style=flat-square&logo=github)](https://github.com/ro-hit81/Landcover_GEE)
+
+**🎯 Project Overview:**
+> Comprehensive land cover classification system leveraging Google Earth Engine's cloud computing platform for large-scale environmental monitoring and analysis.
+
+**✨ Key Features:**
+- � **Google Earth Engine**: Cloud-based geospatial analysis platform
+- � **Multi-satellite Data**: Sentinel-2, Landsat integration
+- 🗺️ **Large-scale Mapping**: Regional to global land cover classification
+- 📊 **Temporal Analysis**: Time-series land cover change detection
+- � **Automated Workflows**: Scalable processing pipelines
+- 📈 **Accuracy Assessment**: Robust validation methodologies
+
+**�️ Tech Stack**: `JavaScript` `Google Earth Engine` `Sentinel-2` `Landsat` `Remote Sensing`
+
+</details>
 
 ## 📈 **GitHub Analytics & Comprehensive Statistics**
 
@@ -267,8 +246,8 @@ I'm a **Copernicus Master in Digital Earth** student specializing in **Geospatia
 ### 🎓 **Education**
 - 🌍 **M.Sc. Copernicus Master in Digital Earth**
   - *Geospatial Data Science Track*
-  - Focus: Earth Observation & Remote Sensing
-- 🏗️ **B.E. Civil Engineering**
+  - Focus: AI & Earth Observation/ Remote Sensing
+- 🏗️ **B.E. Geomatics Engineering**
   - Foundation in spatial analysis and GIS
 
 </td>
@@ -305,13 +284,12 @@ I'm a **Copernicus Master in Digital Earth** student specializing in **Geospatia
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rohit81.com.np-000000?style=for-the-badge&logo=globe&logoColor=white)](https://rohit81.com.np/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rhtkht-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhtkht/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Rohit_Khati-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Rohit_Khati)
 [![Twitter](https://img.shields.io/badge/Twitter-rohitkhati713-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rohitkhati713)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhtkhati@gmail.com)
 
 ### 🤝 **Open to Opportunities In**
 
-`Remote Sensing Consultancy` • `Geospatial Data Science` • `Earth Observation Research` • `Environmental Monitoring` • `GIS Development` • `Satellite Image Processing`
+`AI & Machine Learning` • `Remote Sensing Consultancy` • `Geospatial Data Science` • `Earth Observation Research` • `Environmental Monitoring` • `GIS Development` • `Satellite Image Processing`
 
 </div>
 

@@ -21,51 +21,42 @@ I'm a **Copernicus Master in Digital Earth** student specializing in **Geospatia
   <img src="https://github-profile-trophy.vercel.app/?username=ro-hit81&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
-## 🛠️ **Remote Sensing & Geospatial Technology Stack**
+## 🏆 **Key Achievements & Highlights**
 
-<details>
-<summary>🛰️ <b>Earth Observation Platforms</b></summary>
-<br>
+<div align="center">
 
+### 🥇 **Competition Winner** | 🎓 **Scholarship Recipient** | 🤖 **AI/ML Expert** | 🛰️ **Earth Observation Specialist**
+
+**🏆 ML4EARTH Competition Winner** • **🇫🇷 Eiffel Excellence Scholarship Winner** • **🗺️ COVID-19 Mapathon Winner** • **🎓 Erasmus Mundus Student** • **💻 Full-Stack GIS Developer**
+
+</div>
+
+## 🛠️ **Technology Stack & Expertise**
+
+### 🤖 **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### 🛰️ **Earth Observation & Remote Sensing**
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Sentinel Hub](https://img.shields.io/badge/Sentinel_Hub-0066CC?style=for-the-badge&logo=esa&logoColor=white)
 ![Copernicus](https://img.shields.io/badge/Copernicus_Services-003399?style=for-the-badge&logo=esa&logoColor=white)
 ![NASA EARTHDATA](https://img.shields.io/badge/NASA_EARTHDATA-FC3D21?style=for-the-badge&logo=nasa&logoColor=white)
 ![Planet Labs](https://img.shields.io/badge/Planet_Labs-0F1419?style=for-the-badge&logo=planet&logoColor=white)
 
-</details>
-
-<details>
-<summary>📊 <b>Data Processing & Analysis</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 📊 **Data Processing & Analysis**
 ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge&logo=osgeo&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Rasterio](https://img.shields.io/badge/Rasterio-ED8B00?style=for-the-badge&logo=python&logoColor=white)
 ![Xarray](https://img.shields.io/badge/Xarray-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-</details>
-
-<details>
-<summary>🤖 <b>Machine Learning & Deep Learning</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-</details>
-
-<details>
-<summary>🗺️ <b>GIS & Visualization</b></summary>
-<br>
-
+### 🗺️ **GIS & Geospatial Development**
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-0066CC?style=for-the-badge&logo=esri&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -73,20 +64,14 @@ I'm a **Copernicus Master in Digital Earth** student specializing in **Geospatia
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-</details>
-
-<details>
-<summary>💻 <b>Development & Cloud</b></summary>
-<br>
-
+### 💻 **Development & Cloud Platforms**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</details>
 
 ## 🚀 **Featured Projects & Research**
 

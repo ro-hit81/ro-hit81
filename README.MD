@@ -1,6 +1,6 @@
 # 🛰️ Rohit Khati | Remote Sensing & Geospatial Data Scientist
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=1000&lines=Copernicus+Master+in+Digital+Earth+Student;Geospatial+Data+Science+%26+Earth+Observation+Specialist;Satellite+Image+Processing+%26+Remote+Sensing+Expert;GIS+Developer+%26+Environmental+Data+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=1000&lines=Copernicus+Master+in+Digital+Earth+Student;Geospatial+Data+Science+%26+Earth+Observation+Specialist;Satellite+Image+Processing+%26+Remote+Sensing+Expert;GIS+Developer+%26+Environmental+Data+Analyst)](https://www.rohit81.com.np/)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
